@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.5.0",
+    "vuepress": "^1.5.0"
+  }
+}
